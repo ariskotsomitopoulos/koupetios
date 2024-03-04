@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 🔗 Unlocking truth in the AI era. Your go-to for authenticity. 🌐 Mission: Tackle AI misinformation, craft a trustworthy digital future. Dive into Veritas X! ✨
+    title: "🔗 Unlocking truth in the AI era. Your go-to for authenticity. 🌐 Mission: Tackle AI misinformation, craft a trustworthy digital future. Dive into Veritas X! ✨"
     text: Veritas X
     button: Tell Me More
     buttonlink: "#services"
