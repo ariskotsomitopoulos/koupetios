@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: 🔗 Unlocking truth in the AI era. Your go-to for authenticity. 🌐 Mission: Tackle AI misinformation, craft a trustworthy digital future. Dive into Veritas X! ✨
+    text: Veritas X
     button: Tell Me More
     buttonlink: "#services"
 
